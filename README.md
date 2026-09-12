@@ -1,3 +1,4 @@
+<!-- ১. লাইভ অ্যানিমেটেড সাইবারপাংক ব্যানার (SVG HTML) -->
 <p align="center">
   <svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://w3.org">
     <style>
@@ -52,7 +53,6 @@
       }
     </style>
 
-    <!-- Background Matrix / Cyberpunk Grid -->
     <rect width="796" height="176" x="2" y="2" rx="8" class="bg" />
     <g class="grid">
       <line x1="0" y1="30" x2="800" y2="30" />
@@ -69,18 +69,92 @@
       <line x1="700" y1="0" x2="700" y2="180" />
     </g>
 
-    <!-- Animated Scanline & Glitch Effect Elements -->
     <line x1="10" y1="10" x2="790" y2="10" class="scanline" />
     <line x1="0" y1="0" x2="0" y2="0" class="glitch-line" />
 
-    <!-- Core Text -->
     <text x="50%" y="85" dominant-baseline="middle" text-anchor="middle" class="neon-text">MESTIAQUE</text>
     <text x="50%" y="130" dominant-baseline="middle" text-anchor="middle" class="sub-text">> FULL_STACK_MAGE_INITIALIZED_</text>
     
-    <!-- UI Border Details -->
     <rect x="15" y="15" width="20" height="20" fill="none" stroke="#ff00ff" stroke-width="1.5"/>
     <rect x="765" y="15" width="20" height="20" fill="none" stroke="#ff00ff" stroke-width="1.5"/>
     <circle cx="25" cy="25" r="3" fill="#00ffcc" />
     <circle cx="775" cy="25" r="3" fill="#00ffcc" />
   </svg>
+</p>
+
+<!-- ২. রিয়েল-টাইম লাইভ ভিজিটর কাউন্টার -->
+<p align="center">
+  <img src="https://komarev.com" alt="Visitor Count" />
+</p>
+
+<p align="left">
+  <img src="https://shields.io" alt="Status" />
+  <img src="https://shields.io" alt="Role" />
+  <img src="https://shields.io" alt="Guild" />
+</p>
+
+```json
+{
+  "class": "Full-Stack Developer",
+  "sub-class": "Automation & Web Architect",
+  "base-location": "Bangladesh",
+  "current-quest": "Building dynamic web ecosystems & optimizing codebases"
+}
+```
+
+---
+
+### 🛡️ CHARACTER STATS (MANA & SKILLS)
+
+#### ⚡ Frontend Attributes
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+#### 🔮 Backend Powers
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 📊 MISSION CONTROL & LEADERBOARD (CYBERPUNK THEME)
+
+<p align="center">
+  <img src="https://vercel.app" alt="Mestiaque's Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
+</p>
+
+<p align="center">
+  <!-- WakaTime লাইভ কোডিং ট্র্যাকার গ্রাফ -->
+  <img src="https://vercel.app" alt="Wakatime Stats" />
+</p>
+
+---
+
+### 📞 CONNECT WITH THE PLAYER
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
+
+<!-- ৪. লাইভ স্পটিফাই ট্র্যাক উইজেটের জন্য প্লেস হোল্ডার -->
+<!-- SPOTIFY_STATUS_START -->
+<!-- SPOTIFY_STATUS_END -->
+
+<p align="center">
+  <img src="https://vercel.app" />
 </p>
