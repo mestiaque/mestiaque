@@ -1,4 +1,3 @@
-<!-- ১. লাইভ অ্যানিমেটেড সাইবারপাংক ব্যানার (SVG HTML) -->
 <p align="center">
   <svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://w3.org">
     <style>
@@ -82,7 +81,6 @@
   </svg>
 </p>
 
-<!-- ২. রিয়েল-টাইম লাইভ ভিজিটর কাউন্টার -->
 <p align="center">
   <img src="https://komarev.com" alt="Visitor Count" />
 </p>
@@ -134,11 +132,6 @@
   <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
 </p>
 
-<p align="center">
-  <!-- WakaTime লাইভ কোডিং ট্র্যাকার গ্রাফ -->
-  <img src="https://vercel.app" alt="Wakatime Stats" />
-</p>
-
 ---
 
 ### 📞 CONNECT WITH THE PLAYER
@@ -146,15 +139,4 @@
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
-
-<!-- ৪. লাইভ স্পটিফাই ট্র্যাক উইজেটের জন্য প্লেস হোল্ডার -->
-<!-- SPOTIFY_STATUS_START -->
-<!-- SPOTIFY_STATUS_END -->
-
-<p align="center">
-  <img src="https://vercel.app" />
 </p>
