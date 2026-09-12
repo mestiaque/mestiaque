@@ -1,43 +1,45 @@
-# Hi there, I'm M. Estiaque Ahmed Khan 👋
+# 🕹️ USER: M. ESTIAQUE AHMED KHAN [LEVEL 26] 👋
 
-<p align="center">
+<p align="left">
+  <img src="https://shields.io" alt="Status" />
   <img src="https://shields.io" alt="Role" />
-  <img src="https://shields.io" alt="Enthusiast" />
+  <img src="https://shields.io" alt="Guild" />
 </p>
 
+```json
+{
+  "class": "Full-Stack Developer",
+  "sub-class": "Automation & Web Architect",
+  "base-location": "Bangladesh",
+  "current-quest": "Building dynamic web ecosystems & optimizing codebases"
+}
+```
+
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on building dynamic web applications.
-- 🌱 I’m always learning new technologies and improving my software architecture skills.
-- 💬 Ask me about **Web Development, Backend Systems, and Automation**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com) | [Email](mailto:your.email@example.com)
+### 🛡️ CHARACTER STATS (MANA & SKILLS)
 
----
-
-### 🛠️ Tech Stack & Toolbox
-
-#### 🌐 Frontend & Templating
+#### ⚡ Frontend Attributes
 <p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Blade" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
-#### ⚙️ Backend & Runtimes
+#### 🔮 Backend Powers
 <p align="left">
-  <img src="https://shields.io" alt="PHP" />
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 MISSION CONTROL & LEADERBOARD
 
 <p align="center">
-  <img src="https://vercel.app" alt="Mestiaque's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Mestiaque's Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
 </p>
 
@@ -47,6 +49,16 @@
 
 ---
 
+### 📞 CONNECT WITH THE PLAYER
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
+
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> Update by <b>mestiaque</b>
+  <img src="https://vercel.app" />
 </p>
