@@ -135,7 +135,7 @@ Always exploring new ideas and building useful software solutions.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mestiaque&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=818CF8&area=true&hide_border=true" width="100%" />
+[![GitHub Contributions](https://ghchart.rshah.org/38BDF8/mestiaque)](https://github.com/mestiaque)
 
 </div>
 
