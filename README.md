@@ -130,7 +130,11 @@ Always exploring new ideas and building useful software solutions.
 
 <br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mestiaque&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
+<img width="55%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=mestiaque&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=C9D1D9&langs_count=8"
+alt="Mestiaque Top Languages" />
+
 
 </div>
 
