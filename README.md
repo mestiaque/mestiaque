@@ -119,18 +119,21 @@ Always exploring new ideas and building useful software solutions.
 </tr>
 </table>
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=mestiaque&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=mestiaque&theme=transparent&hide_border=true&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mestiaque&theme=transparent&hide_border=true&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" />
 
-<img width="49%"
-src="https://github-readme-streak-stats-eight.vercel.app/?user=mestiaque&theme=transparent&hide_border=true&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E"
-alt="GitHub Streak Stats" />
+<br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mestiaque&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
 </div>
+
 
 ## 📈 Contribution Activity
 
