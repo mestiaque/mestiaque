@@ -1,10 +1,10 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:164E63&height=220&section=header&text=M.%20ESTIAQUE%20AHMED%20KHAN&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Laravel%20%26%20PHP%20Engineer&descAlignY=56&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:164E63&height=200&section=header&text=Estiaque%20Ahmed%20Khan&fontSize=44&fontColor=38BDF8&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=👋+Hi,+I'm+Estiaque;Laravel+Developer+🚀;Building+Scalable+Web+Applications;Backend+Development+%7C+REST+APIs;Turning+Ideas+Into+Digital+Solutions+💡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Hi,+I'm+Estiaque;Full-Stack+Laravel+Developer;Building+Scalable+Web+Applications;Backend+Development+and+REST+APIs;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/mestiaque">
@@ -35,7 +35,7 @@ I'm a Full-Stack Developer passionate about building practical, scalable, and us
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&style=italic&size=16&duration=5000&pause=2000&color=C9D1D9&center=true&vCenter=true&width=700&lines=%22Great+software+is+built+with+curiosity%2C+consistency%2C+and+attention+to+detail.%22" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&style=italic&size=15&duration=4000&pause=2000&color=C9D1D9&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Great+software+is+built+with+curiosity,;consistency,+and+attention+to+detail." alt="Quote" />
 
 </div>
 
@@ -153,7 +153,7 @@ Always exploring new ideas and building useful software solutions.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mestiaque&bg_color=0D1117&color=38BDF8&line=818CF8&point=C9D1D9&area=true&area_color=164E63&hide_border=true" />
+<img width="100%" src="https://ghchart.rshah.org/38BDF8/mestiaque" alt="Contribution chart" />
 
 </div>
 
@@ -187,7 +187,7 @@ Always exploring new ideas and building useful software solutions.
 <!-- <a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=💬+Open+to+collaboration+%26+interesting+projects;Thanks+for+visiting!+Happy+Coding!+💙" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Open+to+collaboration+and+interesting+projects;Thanks+for+visiting!+Happy+Coding!" alt="Footer typing" />
 
 </div>
 
