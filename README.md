@@ -1,9 +1,10 @@
- <div align="center">
+<!-- ===================== ANIMATED HEADER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:164E63&height=220&section=header&text=M.%20ESTIAQUE%20AHMED%20KHAN&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Laravel%20%26%20PHP%20Engineer&descAlignY=56&descSize=18" width="100%" />
 
-# 👋 Hi, I'm M. ESTIAQUE AHMED KHAN
-### Full-Stack Developer | Laravel & PHP Engineer
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Laravel+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications;Backend+Development+%7C+REST+APIs;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=👋+Hi,+I'm+Estiaque;Laravel+Developer+🚀;Building+Scalable+Web+Applications;Backend+Development+%7C+REST+APIs;Turning+Ideas+Into+Digital+Solutions+💡" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/mestiaque">
@@ -11,13 +12,17 @@
   </a>
   <img src="https://img.shields.io/badge/Focus-Web%20Development-0891B2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Bangladesh-16A34A?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mestiaque&label=Profile%20Views&color=818CF8&style=for-the-badge" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:172554,100:164E63&height=2" width="100%" />
 
 </div>
 
+<!-- Animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:164E63&height=3&animation=twinkling" width="100%" />
+
 ## ✨ About Me
+
+<img align="right" width="380" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=818CF8&multiline=true&width=380&height=110&lines=class+Estiaque+extends+Developer+%7B;++++stack+%3D+%5B'Laravel'%2C+'PHP'%2C+'MySQL'%5D%3B;++++mission+%3D+'Build+useful+software'%3B;%7D" alt="Code typing" />
 
 I'm a Full-Stack Developer passionate about building practical, scalable, and user-friendly web applications.
 
@@ -28,25 +33,30 @@ I'm a Full-Stack Developer passionate about building practical, scalable, and us
 - 🧠 Always learning, experimenting, and improving my skills
 - 🌏 Based in Bangladesh
 
-> "Great software is built with curiosity, consistency, and attention to detail."
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&style=italic&size=16&duration=5000&pause=2000&color=C9D1D9&center=true&vCenter=true&width=700&lines=%22Great+software+is+built+with+curiosity%2C+consistency%2C+and+attention+to+detail.%22" alt="Quote" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:164E63&height=3&animation=twinkling" width="100%" />
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### Backend Development
-
-<img src="https://skillicons.dev/icons?i=php,laravel" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 
 ### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode,postman" />
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:164E63&height=3&animation=twinkling" width="100%" />
 
 ## 🚀 Featured Projects
 
@@ -118,31 +128,41 @@ Always exploring new ideas and building useful software solutions.
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:164E63&height=3&animation=twinkling" width="100%" />
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mestiaque&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=mestiaque&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" />
-
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mestiaque&theme=transparent&hide_border=true&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" />
 
-<br/>
-
-
-<img width="55%"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=mestiaque&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=C9D1D9&langs_count=8"
-alt="Mestiaque Top Languages" />
-
+<img width="55%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mestiaque&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 </div>
-
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![GitHub Contributions](https://ghchart.rshah.org/38BDF8/mestiaque)](https://github.com/mestiaque)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mestiaque&bg_color=0D1117&color=38BDF8&line=818CF8&point=C9D1D9&area=true&area_color=164E63&hide_border=true" />
+
+</div>
+
+## 🧊 3D Contribution Skyline
+
+<div align="center">
+
+<!-- Needs .github/workflows/profile-3d.yml (see below) -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution" />
 
 </div>
 
@@ -154,6 +174,8 @@ alt="Mestiaque Top Languages" />
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:164E63&height=3&animation=twinkling" width="100%" />
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -161,13 +183,12 @@ alt="Mestiaque Top Languages" />
 <a href="https://github.com/mestiaque">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<!-- LinkedIn, portfolio ar email er link boshao -->
+<!-- <a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+<!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
 
-<!-- Add your LinkedIn, portfolio and email links here -->
-
-### 💬 Open to learning, collaboration & interesting projects.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:172554,100:0F172A&height=120&section=footer" width="100%" />
-
-**Thanks for visiting! Happy Coding! 💙**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=💬+Open+to+collaboration+%26+interesting+projects;Thanks+for+visiting!+Happy+Coding!+💙" alt="Footer typing" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:172554,100:0F172A&height=130&section=footer&animation=twinkling" width="100%" />
