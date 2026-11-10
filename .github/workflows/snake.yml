@@ -1,31 +1,28 @@
-
-name: Generate Contribution Snake
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 18 * * *"   # protidin ekbar update hobe
+  workflow_dispatch:        # Actions tab theke manually chalano jabe
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: mestiaque
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: actions/checkout@v4
 
-      - name: Deploy to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Update 3D contribution graph" || true
+          git push
