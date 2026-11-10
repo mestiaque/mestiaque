@@ -130,14 +130,6 @@ Always exploring new ideas and building useful software solutions.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:164E63&height=3&animation=twinkling" width="100%" />
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mestiaque&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -146,14 +138,6 @@ Always exploring new ideas and building useful software solutions.
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mestiaque&theme=transparent&hide_border=true&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" />
 
 <img width="55%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mestiaque&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://ghchart.rshah.org/38BDF8/mestiaque" alt="Contribution chart" />
 
 </div>
 
